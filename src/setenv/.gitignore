@@ -1,0 +1,14 @@
+# Cabal files
+dist/
+*.cabal
+cabal.project.local
+cabal.project.lock
+
+# Stack files
+.stack-work/
+.stack-work-*/
+
+# GHC files
+*.hi
+*.o
+
